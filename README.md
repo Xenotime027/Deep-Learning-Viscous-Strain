@@ -25,7 +25,7 @@ We define our deep learning model and optimise the hyperparameters using the ker
 Then, we can evaluate the accuracy of our model by comparing to the test dataset. We can also save the optimised model and the predicted result.
 In the next notebook, we can validate the model's accuracy, also with extrapolated strain values.
 
-3. File: extrapolation_validation_1D.ipynb
+3. File: extrapolation_validation-1D.ipynb
 In the validation notebook, I provided 3 model examples: FFNN-1, FFNN-2, and RNN (recurrent neural network)
 Please note that the performance of FFNN-2 is much worse because I only train FFNN-2 model with limited variables (unlike FFNN-1 and RNN)
 The complete dataset is also not uploaded here because of size constraints.
